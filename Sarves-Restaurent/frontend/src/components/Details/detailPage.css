@@ -1,0 +1,12 @@
+.btn-order {
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+.value {
+  color: gray;
+}
